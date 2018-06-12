@@ -1,2 +1,0 @@
-# AngularFootballCompetition
-Football Application
